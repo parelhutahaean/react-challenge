@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+header {
+  font-size: 3em;
+  padding: 10px;
+  background-color: #cacaca;
+}
+
+footer {
+  background-color: #cacaca;
+  padding: 20px 0;
+  color: black;
+}
